@@ -16,19 +16,27 @@
     `pip install -r requirements.txt`
 #### 7. Start the app using 
     `python App.py`
+
+#### All the downloads are saved in the Downloads directory
+
 #### ENJOY
 
 # Screenshots
 
-![App](Screenshots/nps.png?raw=true)
-![Searcing](Screenshots/nps1.png?raw=true)
-![List of Books](Screenshots/nps2.png?raw=true)
-![Details](Screenshots/nps3.png?raw=true)
-![Mirror Links](Screenshots/nps4.png?raw=true)
-![Downloading](Screenshots/nps5.png?raw=true)
+![Search](screenshots/nps1.png)
+![Search Message](screenshots/nps2.png)
+![Book Search List](screenshots/nps3.png)
+![Book Detail](screenshots/nps4.png)
+![Mirror Links](screenshots/nps5.png)
+![Download](screenshots/nps6.png)
+![Download Message](screenshots/nps7.png)
+![Exit](screenshots/nps8.png)
 
-# Contributions
-All contributions are welcome. Feel free to open an issue or submit a PR.
+# To-do
+#### > Increse the speed
+#### > Add tests
+#### > Add themes
+#### > Dockerize
 
 # Disclaimer : 
 For education purposes only. Using this application is not illegal but downloading paid books for free is. PEACE. 
