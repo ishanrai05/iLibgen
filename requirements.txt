@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2019.3.9
 chardet==3.0.4
 idna==2.8
-lxml==4.3.2
+lxml==4.9.1
 npyscreen==4.10.5
 PyQt5
 PyQt5-sip==4.19.14
